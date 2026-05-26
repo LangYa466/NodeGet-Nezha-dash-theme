@@ -1,6 +1,6 @@
 # NodeGet-Nezha-dash-theme
 
-UI組件參考 [telly3e/nezha-dash-v1](https://github.com/telly3e/nezha-dash-v1-komari) 
+Fork自 [telly3e/nezha-dash-v1](https://github.com/telly3e/nezha-dash-v1-komari) 
 
 ## 开发
 
