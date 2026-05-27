@@ -1,0 +1,12 @@
+{
+  "site_name": "NodeGet Status",
+  "site_logo": "logo.png",
+  "footer": "Powered by NodeGet",
+  "site_tokens": [
+  {
+      "name": "隨便填寫都可以",
+      "backend_url": "wss://123.com",
+      "token": "注意生成爲訪客token"
+    }
+  ]
+}
