@@ -34,3 +34,10 @@ SITE_2=name="master-2",backend_url="wss://m2.example.com",token="xyz789"
 一个 `SITE_n` 都没设的话脚本啥也不干 直接用仓库里那份 `config.json` 本地 `npm run dev` 走的是 vite 直接起 也不会触发这个脚本
 
 可以只有一个 `SITE` 不强制 `SITE_2` `SITE_3` 之类的
+
+# 截图
+<img width="1194" height="1668" alt="image" src="https://github.com/user-attachments/assets/df2cddd0-8ddd-452b-b0ec-37c2deb267b8" />
+<img width="1194" height="2358" alt="image" src="https://github.com/user-attachments/assets/43b853bb-8b17-4b66-a34c-33bb4a71f045" />
+<img width="1194" height="1150" alt="image" src="https://github.com/user-attachments/assets/785afcc4-0fe4-4e92-a81f-a08cd98ad241" />
+<img width="1194" height="1324" alt="image" src="https://github.com/user-attachments/assets/efd5c123-a708-4bf1-98f0-24159f60222b" />
+
